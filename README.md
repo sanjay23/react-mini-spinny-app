@@ -1,6 +1,6 @@
 # React App with simple cars listing with advance sidebar multi filter
 
-===== Description ==========
+### Description
 
 React and tailwind css demo of cars listing with pagination also include sidebar multiple filter.
 
